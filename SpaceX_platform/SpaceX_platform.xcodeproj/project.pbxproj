@@ -21,7 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		5DD7BEDC22C4AF2400815046 /* Rocket.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Rocket.png; path = /Users/erykmol/Desktop/SpaceX_platform/SpaceX_platform/../../Rocket.png; sourceTree = "<absolute>"; };
+		5DD7BEDC22C4AF2400815046 /* Rocket.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Rocket.png; sourceTree = "<group>"; };
 		5DD7BEE222C4C57700815046 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 		5DD7BEE422C563C300815046 /* RocketsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RocketsViewController.swift; sourceTree = "<group>"; };
 		5DD7BEE622C627EE00815046 /* close.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = close.png; sourceTree = "<group>"; };
